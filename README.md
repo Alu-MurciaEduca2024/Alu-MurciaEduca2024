@@ -1,9 +1,9 @@
 # 👋 ¡Hola! Soy FJ
-Soy un futuro desarrollador, me gustaría especializarme en front-end, full-stack, entre otros
+Soy un futuro desarrollador, que me gustaría especializarme en front-end, full-stack, entre otros
 
 ---
 
-## 🚀 Habilidades
+## 🚀 Futuras Habilidades
 - Lenguajes: Python, JavaScript, C++
 - Herramientas: Git, Docker, VSCode
 - Frameworks: React, Django, Node.js
