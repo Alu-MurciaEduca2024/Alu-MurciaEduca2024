@@ -1,12 +1,22 @@
-- 👋 Hola soy @Alu-MurciaEduca2024
-- 👀 Estoy interesado en  ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 ¡Hola! Soy FJ
+Soy un futuro desarrollador, me gustaría especializarme en front-end, full-stack, entre otros
 
-<!---
-Alu-MurciaEduca2024/Alu-MurciaEduca2024 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 🚀 Habilidades
+- Lenguajes: Python, JavaScript, C++
+- Herramientas: Git, Docker, VSCode
+- Frameworks: React, Django, Node.js
+
+---
+
+## 📈 Estadísticas
+<!-- Puedes agregar un contador de visitas, estadísticas de GitHub, y más -->
+![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)
+---
+
+## 🌱 Proyectos Destacados
+- Todavía no tengo proyectos destacados pero no tardaré en tenerlos
+---
+
+
