@@ -10,11 +10,6 @@ Soy un futuro desarrollador, me gustaría especializarme en front-end, full-stac
 
 ---
 
-## 📈 Estadísticas
-<!-- Puedes agregar un contador de visitas, estadísticas de GitHub, y más -->
-![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)
----
-
 ## 🌱 Proyectos Destacados
 - Todavía no tengo proyectos destacados pero no tardaré en tenerlos
 ---
