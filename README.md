@@ -12,6 +12,7 @@ Soy un futuro desarrollador, que me gustaría especializarme en front-end, full-
 
 ## 🌱 Proyectos Destacados
 - Todavía no tengo proyectos destacados pero no tardaré en tenerlos
+- Aprobar DAW
 ---
 
 
